@@ -8,8 +8,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\WCCIStudent\Source\repos\Fall2022-Hello-World\Fall2022 Hello World\Program.cs" Link="Program.cs" />
-  </ItemGroup>
-
 </Project>
